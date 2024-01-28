@@ -1,0 +1,24 @@
+---
+title: "{{< meta post_title.sample-focus >}}"
+description: "{{< meta post_descr.sample-focus >}}"
+categories:
+  - "{{< meta categories.focus >}}"
+author: "Someone"
+date: "2023-11-03"
+---
+
+:::{.content-visible when-profile="en"}
+
+::: callout-note
+This is a sample page for a Focus item.
+:::
+
+:::
+
+:::{.content-visible when-profile="fr"}
+
+::: callout-note
+Il s'agit d'un exemple de page pour un article de Focus.
+:::
+
+:::

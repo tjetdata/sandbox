@@ -1,0 +1,28 @@
+project:
+  output-dir: www/fr
+
+metadata-files:
+  - _metadata-fr.yml
+
+website:
+  site-path: "/fr/"
+  sidebar:
+    - title: "Pays"
+      style: "floating"
+      search: false
+      collapse-level: 1
+      contents:
+        - index.qmd
+        - section: "Afrique"
+          contents:
+            - auto: "Africa/*.qmd"
+        - section: "Moyen-Orient et Afrique du Nord"
+          contents:
+            - auto: "MENA/*.qmd"
+  navbar:
+    right:
+      - href: "#lang-switcher"
+        text: English
+    left:
+      - text: "Documents"
+        href: documents.qmd

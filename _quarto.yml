@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: www/
+  execute-dir: project
+  lib-dir: site_libs
+
+format:
+  html:
+    include-after-body:
+      - language_switcher_js.html
+    theme: darkly
+    toc: true
+    toc-depth: 6
+    df-print: kable
+editor: source
+
+website:
+  title: "Home"
+  page-navigation: true
+  reader-mode: false
+  search: false
+  navbar:
+    pinned: false
+  bread-crumbs: false

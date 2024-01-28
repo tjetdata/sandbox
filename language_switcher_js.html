@@ -1,0 +1,7 @@
+<script>
+    let locale = document.getElementsByTagName('html')[0].getAttribute('lang')
+    let targetLocale = locale === 'en' ? 'fr' : 'en'
+    let url = window.location.href.replace(`/${locale}/`, `/${targetLocale}/`)
+    let link = document.querySelector(`[href*="#lang-switcher"]`)
+    link.setAttribute('href', url)
+</script>

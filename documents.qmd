@@ -1,0 +1,16 @@
+---
+listing:
+  contents: 
+    - announcements/
+    - focus/
+  type: grid
+  sort: 
+    - "date"
+    - "categories"
+    - "title"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  image-height: "144"
+sidebar: false
+---

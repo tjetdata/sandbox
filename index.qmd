@@ -1,0 +1,7 @@
+---
+title: "{{< meta page_title.index >}}"
+---
+
+- See the sidebar for the sidebar order issue
+
+- See the Documents section for the categories translation issue

@@ -1,0 +1,24 @@
+---
+title: "{{< meta post_title.sample-announcement >}}"
+description: "{{< meta post_descr.sample-announcement >}}"
+categories: 
+  - "{{< meta categories.announcement >}}"
+author: "Someone"
+date: "2023-11-03"
+---
+
+:::{.content-visible when-profile="en"}
+
+::: callout-note
+This is a sample page for an announcement.
+:::
+
+:::
+
+:::{.content-visible when-profile="fr"}
+
+::: callout-note
+Il s'agit d'une page d'exemple pour une annonce.
+:::
+
+:::
