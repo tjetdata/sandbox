@@ -1,0 +1,33 @@
+[
+  {
+    "objectID": "documents.html",
+    "href": "documents.html",
+    "title": "Home",
+    "section": "",
+    "text": "Annonce\n\n\nAnnonce\n\n\nIl s’agit d’une page d’exemple pour une annonce.\n\n\n\nSomeone\n\n\n3 nov. 2023\n\n\n\n\n\n\n\n\n\n\n\n\nEn vedette\n\n\nEn vedette\n\n\nIl s’agit d’un exemple de page pour un document de Focus.\n\n\n\nSomeone\n\n\n3 nov. 2023\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maison",
+    "section": "",
+    "text": "See the sidebar for the sidebar order issue\nSee the Documents section for the categories translation issue",
+    "crumbs": [
+      "{{< meta page_title.index >}}"
+    ]
+  },
+  {
+    "objectID": "announcements/sample-announcement.html",
+    "href": "announcements/sample-announcement.html",
+    "title": "Annonce",
+    "section": "",
+    "text": "Note\n\n\n\nIl s’agit d’une page d’exemple pour une annonce."
+  },
+  {
+    "objectID": "focus/sample-focus.html",
+    "href": "focus/sample-focus.html",
+    "title": "En vedette",
+    "section": "",
+    "text": "Note\n\n\n\nIl s’agit d’un exemple de page pour un article de Focus."
+  }
+]

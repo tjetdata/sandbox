@@ -1,8 +1,7 @@
 ---
 title: "{{< meta post_title.sample-announcement >}}"
 description: "{{< meta post_descr.sample-announcement >}}"
-categories: 
-  - "{{< meta categories.announcement >}}"
+categories: ["{{< meta categories.announcement >}}"]
 author: "Someone"
 date: "2023-11-03"
 ---

@@ -1,0 +1,33 @@
+[
+  {
+    "objectID": "documents.html",
+    "href": "documents.html",
+    "title": "Home",
+    "section": "",
+    "text": "Announcement\n\n\nAnnouncement\n\n\nThis is a sample page for a announcement.\n\n\n\nSomeone\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nIn Focus\n\n\nFocus\n\n\nThis is a sample page for a In Focus Brief.\n\n\n\nSomeone\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "See the sidebar for the sidebar order issue\nSee the Documents section for the categories translation issue",
+    "crumbs": [
+      "{{< meta page_title.index >}}"
+    ]
+  },
+  {
+    "objectID": "announcements/sample-announcement.html",
+    "href": "announcements/sample-announcement.html",
+    "title": "Announcement",
+    "section": "",
+    "text": "Note\n\n\n\nThis is a sample page for an announcement."
+  },
+  {
+    "objectID": "focus/sample-focus.html",
+    "href": "focus/sample-focus.html",
+    "title": "In Focus",
+    "section": "",
+    "text": "Note\n\n\n\nThis is a sample page for a Focus item."
+  }
+]
