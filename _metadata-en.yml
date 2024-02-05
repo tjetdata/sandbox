@@ -10,20 +10,8 @@ post_title:
   sample-focus: "In Focus"
 
 post_descr:
-  sample-announcement: "This is a sample page for a announcement."
-  sample-focus: "This is a sample page for a In Focus Brief."
-
-ctry_title:
-  Angola: "Angola"
-  Egypt: "Egypt"
-  SaudiArabia: "Saudi Arabia"
-  SouthAfrica: "South Africa"
-
-ctry_order:
-  Angola: 1
-  Egypt: 2
-  SaudiArabia: 3
-  SouthAfrica: 4
+  sample-announcement: "This is a sample page for an announcement."
+  sample-focus: "This is a sample page for an In Focus Brief."
 
 categories:
   announcement: "Announcement"

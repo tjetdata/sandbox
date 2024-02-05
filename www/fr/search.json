@@ -1,20 +1,10 @@
 [
   {
-    "objectID": "documents.html",
-    "href": "documents.html",
-    "title": "Home",
+    "objectID": "focus/sample-focus.html",
+    "href": "focus/sample-focus.html",
+    "title": "En vedette",
     "section": "",
-    "text": "Annonce\n\n\nAnnonce\n\n\nIl s’agit d’une page d’exemple pour une annonce.\n\n\n\nSomeone\n\n\n3 nov. 2023\n\n\n\n\n\n\n\n\n\n\n\n\nEn vedette\n\n\nEn vedette\n\n\nIl s’agit d’un exemple de page pour un document de Focus.\n\n\n\nSomeone\n\n\n3 nov. 2023\n\n\n\n\n\n\n\n\nAucun article correspondant"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Maison",
-    "section": "",
-    "text": "See the sidebar for the sidebar order issue\nSee the Documents section for the categories translation issue",
-    "crumbs": [
-      "{{< meta page_title.index >}}"
-    ]
+    "text": "Note\n\n\n\nIl s’agit d’un exemple de page pour un article de Focus."
   },
   {
     "objectID": "announcements/sample-announcement.html",
@@ -24,10 +14,10 @@
     "text": "Note\n\n\n\nIl s’agit d’une page d’exemple pour une annonce."
   },
   {
-    "objectID": "focus/sample-focus.html",
-    "href": "focus/sample-focus.html",
-    "title": "En vedette",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maison",
     "section": "",
-    "text": "Note\n\n\n\nIl s’agit d’un exemple de page pour un article de Focus."
+    "text": "The below listings show the correct categories on the cards but not in the sidebar or on the pages listed.\n\n\n\n\n\n\n\n\n\n\n\n\nAnnonce\n\n\nAnnonce\n\n\nIl s’agit d’une page d’exemple pour une annonce.\n\n\n\nSomeone\n\n\n3 nov. 2023\n\n\n\n\n\n\n\n\n\n\n\n\nEn vedette\n\n\nEn vedette\n\n\nIl s’agit d’un exemple de page pour un document de Focus.\n\n\n\nSomeone\n\n\n3 nov. 2023\n\n\n\n\n\n\n\n\nAucun article correspondant"
   }
 ]

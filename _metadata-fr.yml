@@ -13,18 +13,6 @@ post_descr:
   sample-announcement: "Il s'agit d'une page d'exemple pour une annonce."
   sample-focus: "Il s'agit d'un exemple de page pour un document de Focus."
 
-ctry_title:
-  Angola: "Angola"
-  Egypt: "Égypte"
-  SaudiArabia: "Arabie saoudite"
-  SouthAfrica: "Afrique du Sud"
-
-ctry_order:
-  Angola: 2
-  Egypt: 4
-  SaudiArabia: 3
-  SouthAfrica: 1
-
 categories:
   announcement: "Annonce"
   focus: "En vedette"

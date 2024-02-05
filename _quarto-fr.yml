@@ -6,23 +6,8 @@ metadata-files:
 
 website:
   site-path: "/fr/"
-  sidebar:
-    - title: "Pays"
-      style: "floating"
-      search: false
-      collapse-level: 1
-      contents:
-        - index.qmd
-        - section: "Afrique"
-          contents:
-            - auto: "Africa/*.qmd"
-        - section: "Moyen-Orient et Afrique du Nord"
-          contents:
-            - auto: "MENA/*.qmd"
+  title: "Listes avec profils"
   navbar:
     right:
       - href: "#lang-switcher"
         text: English
-    left:
-      - text: "Documents"
-        href: documents.qmd

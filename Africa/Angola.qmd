@@ -1,4 +1,0 @@
----
-title: "{{< meta ctry_title.Angola >}}"
-# order: {{< meta ctry_order.Angola >}}
----

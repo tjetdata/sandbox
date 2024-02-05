@@ -1,7 +1,14 @@
 ---
 title: "{{< meta page_title.index >}}"
+listing:
+  contents: 
+    - announcements/
+    - focus/
+  type: grid
+  sort-ui: false
+  filter-ui: false
+  categories: true
+sidebar: false
 ---
 
-- See the sidebar for the sidebar order issue
-
-- See the Documents section for the categories translation issue
+The below listings show the correct categories on the cards but not in the sidebar or on the pages listed. 
