@@ -8,7 +8,9 @@ format:
   html:
     include-after-body:
       - language_switcher_js.html
-    theme: darkly
+    theme:
+      dark: darkly
+      light: flatly
 editor: source
 
 website:

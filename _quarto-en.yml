@@ -8,6 +8,9 @@ website:
   site-path: "/en/"
   title: "Listings with profiles"
   navbar:
+    left:
+      - text: Home
+        href: index.qmd
     right:
       - href: "#lang-switcher"
         text: Français
